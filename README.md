@@ -1,13 +1,17 @@
-# Final_Project_Udacity
+>**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-Date created 
-Final_Project_Udacity was created 12/01/2022
+### Date created
+Include the date you created this project and README file.
 
-Project Title: Version control
+### Project Title
+Replace the Project Title
 
-Description It's a bikeshare project developed while learning programming for data science with Udacity
+### Description
+Describe what your project is about and what it does
 
-Files used new_york_city.csv, chicago.csv, washington.csv
+### Files used
+Include the files used
 
-Credits It's a great opportunity provided by Udacity
-useful link: https://git-scm.com/downloads (to download git app)
+### Credits
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
