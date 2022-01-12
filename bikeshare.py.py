@@ -1,3 +1,7 @@
+# for the final project, the python codes below were uploaded on my github
+# To modify the existing code, a print statement is added. This gives a brief overview about the project
+print("Version Control with bikeshare python file")
+
 import time
 import pandas as pd
 import numpy as np
